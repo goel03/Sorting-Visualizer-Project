@@ -1,12 +1,10 @@
 # Sorting-Visualizer-Project
-A sorting visualizer project is a great way to learn and understand sorting algorithms by providing a visual representation of how they work.
-Using HTML,CSS,JS,NODEJS
-<h1> Sorting-Visualizer-Project </h1>
-<h2> A sorting visualizer project is a great way to learn and understand sorting algorithms by providing a visual representation of how they work.<br>
-Using HTML,CSS,JS,NODEJS </h2>
+
+<h4> A sorting visualizer project is a great way to learn and understand sorting algorithms by providing a visual representation of how they work.<br>
+Using HTML,CSS,JS,NODEJS </h4>
 
 <ul>
-   <li><h1> DEPLOY LINK ----> </h1> <a href="https://sorting-visualizer-project11.onrender.com"/> Dice Game </a> </li>
+   <li><h1> DEPLOY LINK ----> </h1> <a href="https://sorting-visualizer-project11.onrender.com"/> Sorting Visualizer </a> </li>
 </ul>
  <h3>Types of Sorting here is-> </h3>   
 <ol>
